@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-gradient-text",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Tailwind CSS plugin for easily creating gradient text.",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
