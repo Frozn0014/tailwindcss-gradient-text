@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-gradient-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
