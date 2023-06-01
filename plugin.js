@@ -1,4 +1,4 @@
-const plugin = require('tailwindcss/plu');
+const plugin = require('tailwindcss/plugin');
 
 const gradientText = plugin(
   function ({ addUtilities, theme, e }) {
